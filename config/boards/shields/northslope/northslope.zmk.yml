@@ -1,12 +1,12 @@
 file_format: "1"
 id: northslope
-name: NorthSlope
+name: NORTHSLOPE
 type: shield
 url: https://github.com/jh442/north-slope-zmk/
-requires: [pro_micro]
+requires: [seeeduino_xiao_ble]
 features:
   - keys
-  - display
 siblings:
   - northslope_left
   - northslope_right
+  - northslope_dongle
