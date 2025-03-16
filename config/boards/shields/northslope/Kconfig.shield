@@ -6,3 +6,6 @@ config SHIELD_NORTHSLOPE_LEFT
 
 config SHIELD_NORTHSLOPE_RIGHT
     def_bool $(shields_list_contains,northslope_right)
+
+config SHIELD_NORTHSLOPE_DONGLE
+    def_bool $(shields_list_contains,northslope_dongle)
