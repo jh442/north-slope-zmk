@@ -6,6 +6,7 @@ url: https://github.com/jh442/north-slope-zmk/
 requires: [seeeduino_xiao_ble]
 features:
   - keys
+  - studio
 siblings:
   - northslope_left
   - northslope_right
