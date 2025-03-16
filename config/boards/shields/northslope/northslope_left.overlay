@@ -1,4 +1,4 @@
-#include "runtype58.dtsi" 
+#include "northslope.dtsi" 
 
 &kscan0 {
     col-gpios
