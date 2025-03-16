@@ -20,6 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: northslope_left
+    shield: northslope_left prospector_adapter
   - board: seeeduino_xiao_ble
-    shield: northslope_right
+    shield: northslope_right prospector_adapter
