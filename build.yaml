@@ -20,6 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: lily58_left
+    shield: northslope_left
   - board: seeeduino_xiao_ble
-    shield: lily58_right
+    shield: northslope_right
